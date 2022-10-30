@@ -2,8 +2,6 @@ import random
 from level import level, logo
 from words import word_list
 
-# I used my learning from an Udemy course to build this and made some corrections with the course
-# https://www.udemy.com/share/103IHM3@PJN8QF5CPAv_psmvUXUF5IGdf0vFe2chaAoG5Bd8FcOemhteo_JZQKi3zPm6LBqrNw==/
 
 print(logo)
 game_ended = False
